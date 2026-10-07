@@ -1,0 +1,23 @@
+Ab Aufgabe 4:
+
+git clone https://github.com/TobiasGrossauerHTL/Test_tgrossau_jfreyham_mbrandst.git
+
+mbrandst.txt im Explorer erstellen
+
+git config --global --add safe.directory "*"
+
+git add mbrandst.txt
+
+git commit -m"Erster Commit"
+
+git push
+
+mbrandst.txt ändern
+
+git add mbrandst.txt
+
+git commit -m"Dokumentation hinzugefuegt"
+
+git pull
+
+git push
