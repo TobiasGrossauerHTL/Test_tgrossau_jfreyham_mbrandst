@@ -18,6 +18,6 @@ Ab Aufgabe 4:
 
 9. git add mbrandst.txt
 
-10. git commit -m"Dokumentation hinzugefuegt"
+10. git commit -m"Aufgabe 6 Dokumentation hinzugefuegt"
 
 11. git push
