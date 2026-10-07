@@ -1,0 +1,24 @@
+C:\Users\tobig> cd C:\HTL\5.Klasse\FSST\Test_tgrossau_jfreyham_mbrandst
+
+C:\HTL\5.Klasse\FSST\Test_tgrossau_jfreyham_mbrandst>git pull
+error: You have not concluded your merge (MERGE_HEAD exists).
+hint: Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+
+C:\HTL\5.Klasse\FSST\Test_tgrossau_jfreyham_mbrandst>git add tgrossau.txt
+
+C:\HTL\5.Klasse\FSST\Test_tgrossau_jfreyham_mbrandst>git commit -m"Grossauer"
+[main b683f7c] Grossauer
+
+C:\HTL\5.Klasse\FSST\Test_tgrossau_jfreyham_mbrandst>git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 477 bytes | 477.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/TobiasGrossauerHTL/Test_tgrossau_jfreyham_mbrandst
+   a97a611..b683f7c  main -> main
+
+C:\HTL\5.Klasse\FSST\Test_tgrossau_jfreyham_mbrandst>
