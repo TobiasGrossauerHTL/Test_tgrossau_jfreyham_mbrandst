@@ -1,0 +1,22 @@
+Microsoft Windows [Version 10.0.26300.9550]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\jakob>cd C:\Users\jakob\Desktop\5AHEL\FSST5\Test_tgrossau_jfreyham_mbrandst
+
+C:\Users\jakob\Desktop\5AHEL\FSST5\Test_tgrossau_jfreyham_mbrandst>git add jfreyham.txt
+
+C:\Users\jakob\Desktop\5AHEL\FSST5\Test_tgrossau_jfreyham_mbrandst>git commit -m "Freyhammer"
+[main a97a611] Freyhammer
+
+C:\Users\jakob\Desktop\5AHEL\FSST5\Test_tgrossau_jfreyham_mbrandst>git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 22 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 508 bytes | 508.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/TobiasGrossauerHTL/Test_tgrossau_jfreyham_mbrandst.git
+   2cd935e..a97a611  main -> main
+
+C:\Users\jakob\Desktop\5AHEL\FSST5\Test_tgrossau_jfreyham_mbrandst>
